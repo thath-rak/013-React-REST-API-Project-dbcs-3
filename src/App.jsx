@@ -32,7 +32,7 @@ function App() {
       </div>
       <div>
         <label>INPUT SECTION: THIS IS WHERE YOU TYPE IN YOUR SPEED. </label>
-        <button className="search" onClick={handleCheckResults}> SEARCH "I'M FEELING LUCKY" </button>
+        <button className="search" onClick={handleCheckResults}> SEARCH </button>
         <input ref={speed} type="text" placeholder="YOUR SPEED" />
       </div>
      
